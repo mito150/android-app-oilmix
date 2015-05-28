@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/myActionBar</item>
+        <item name="android:colorPrimaryDark">@color/darkPrimary</item>
+
+        <!-- Support library compatibility -->
+        <item name="actionBarStyle">@style/myActionBar</item>
+        <item name="colorPrimaryDark">@color/darkPrimary</item>
+
+    </style>
+
+
+    <style name="myActionBar" parent="Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">@color/lightPrimary</item>
+        <item name="android:elevation">1dp</item>
+        <item name="android:titleTextStyle">@style/myActionBarTitle</item>
+
+
+        <!-- Support library compatibility -->
+        <item name="background">@color/lightPrimary</item>
+        <item name="elevation">1dp</item>
+        <item name="titleTextStyle">@style/myActionBarTitle</item>
+
+    </style>
+
+
+    <style name="myActionBarTitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">16sp</item>
+
+        <!-- Support library compatibility -->
+        <item name="textAllCaps">true</item>
+
+    </style>
+
+</resources>

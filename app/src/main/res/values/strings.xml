@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oil Mix Calc</string>
+    <string name="title_percent_mix">Porcentaje de aceite en la mezcla</string>
+    <string name="title_gasoline">Litros de gasolina</string>
+    <string name="title_mix">Cantidad de aceite a mezclar</string>
+    <string name="default_percent" translatable="false">2%</string>
+    <string name="default_gasoline" translatable="false">5 L</string>
+    <string name="settings">Ajustes</string>
+
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="default_oilFrom" translatable="false">0</string>
+    <string name="default_oilTo" translatable="false">5</string>
+    <string name="default_gasFrom" translatable="false">0</string>
+    <string name="default_gasTo" translatable="false">20</string>
+    <string name="range_settings">Ajuste de los rangos</string>
+    <string name="oil_range">Rango del aceite (%)</string>
+    <string name="from">De</string>
+    <string name="to">a</string>
+    <string name="gasoline_range">Rango de la gasolina (L)</string>
+    <string name="layout_settings">Ajustes del tema</string>
+    <string name="layout1">Tema 1</string>
+    <string name="layout2">Tema 2</string>
+
+</resources>

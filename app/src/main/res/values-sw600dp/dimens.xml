@@ -1,0 +1,9 @@
+<resources>
+    <!-- Matches Nexus 7 -->
+    <dimen name="activity_horizontal_margin">80dp</dimen>
+    <dimen name="activity_vertical_margin">32dp</dimen>
+    <dimen name="spacer">10dp</dimen>
+    <dimen name="box_vertical_padding">12dp</dimen>
+    <dimen name="box_horizontal_padding">8dp</dimen>
+
+</resources>

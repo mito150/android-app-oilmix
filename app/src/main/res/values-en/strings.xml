@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oil Mix Calc</string>
+    <string name="title_percent_mix">Mixture percentage</string>
+    <string name="title_gasoline">Liters of gasoline</string>
+    <string name="title_mix">Amount of oil to be mixed</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="range_settings">Range Settings</string>
+    <string name="oil_range">Oil range (%)</string>
+    <string name="from">From</string>
+    <string name="to">to</string>
+    <string name="gasoline_range">Gasoline range (L)</string>
+    <string name="layout_settings">Layout settings</string>
+    <string name="layout1">Layout 1</string>
+    <string name="layout2">Layout 2</string>
+
+</resources>
